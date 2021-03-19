@@ -1,0 +1,60 @@
+body {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #343a40;
+}
+
+h1{
+    text-align: center;
+    color: antiquewhite;
+}
+h2{
+    text-align: center;
+    color: aqua;
+}
+p{
+    text-align: center;
+}
+.notif1 {
+    text-align: center;
+    font-style: italic;
+    color:chartreuse;
+}
+button{
+    font-family: sans-serif;
+    font-size: 15px;
+    background: #22a4cf;
+    color: white;
+    border: white 1px solid;
+    border-radius: 5px;
+    padding: 12px 20px;
+    margin-top: 10px;
+}
+.bye {
+    text-align: center;
+    font-size: 100px;
+    color: red;
+    
+}
+.pic1 {
+    text-align: center;
+    width: 500px;
+    border: 3px solid black;
+    border-radius: 50%;
+}
+.letter {
+    text-align: center;
+    width: 300px;
+
+}
+.I {
+    color:aqua ;
+    font-size: 150px;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+.box {
+    text-align: center;
+}
